@@ -7,3 +7,5 @@ Mars is the red planet.
 Mars is the 4th planet from the sun.
 
 Mars completes and orbit around the sun in 687 days.
+
+Mars is next to Earth.
